@@ -1,0 +1,11 @@
+.mainframe{
+  width: 100%;
+  height: 100%;
+  border: #4800ff solid 1px;
+}
+
+.editor{
+  /*width: auto;*/
+  /*height: auto;*/
+  border: #ff1a2c solid 1px;
+}
